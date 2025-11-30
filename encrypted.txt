@@ -1,0 +1,9 @@
+
+odvw_uhvxow = ""   # joredo yduldeoh
+
+ghi vhw_uhvxow(whaw: vwu):
+    joredo odvw_uhvxow
+    odvw_uhvxow = whaw
+
+ghi jhw_uhvxow() -> vwu:
+    uhwxuq odvw_uhvxow
